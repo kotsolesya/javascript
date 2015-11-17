@@ -1,6 +1,6 @@
 //https://learn.javascript.ru/variable-names
 alert( 'Я – Olesya Kots!' );
-alert('сама красива');
+alert('hello');
 //змінні
 var masseg;
 masseg = 'Изучение какого-нибудь функционального языка рекомендуется для расширения кругозора'
